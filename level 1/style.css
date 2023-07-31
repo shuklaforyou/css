@@ -1,0 +1,116 @@
+/* div{
+    background-color: pink;
+    height: 100px;
+    width:100px
+    boder-
+}
+
+h1{
+    width: 100px;
+    height:auto;
+    background-color: pink;
+} */
+
+
+
+/* h1{
+    color: red;
+}
+
+p{
+    color: purple;
+}
+
+button{
+    color: blue;
+    background-color: rgb(172, 198, 172)
+}
+
+body{
+    background-color: rgb(255, 244, 244);
+} */
+
+
+
+
+/* *{
+    color: blue;
+}
+ */
+
+/* #headingone{
+    color: rgb(49, 49, 182);
+}
+
+.myclass{
+    color: blueviolet;
+}
+
+#box{
+    color: rgb(179, 179, 223);
+    background-color: blue;
+}
+
+
+.heading{
+    color: brown;
+
+}
+
+button{
+    color: green;
+}
+
+ */
+
+/* 
+p{
+    text-align: center;
+ }
+
+h1{
+    text-align: center;
+    font-weight: 900;
+}
+
+
+#one{
+    font-family: Arial, ;
+}
+
+#two{
+    font-family: Georgia;
+} */
+
+
+/* 
+#one{
+    font-size: 25px;    
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+#two{
+    font-size: 20px;    
+}
+#three{
+    font-size: 15px;    
+} */
+
+#work{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+    boder
+}
